@@ -11,6 +11,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-surround'
 Plugin 'sheerun/vim-polyglot'
+Plugin 'jiangmiao/auto-pairs'
 Plugin 'tpope/vim-sensible'
 call vundle#end()
 filetype plugin indent on
